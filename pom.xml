@@ -3,8 +3,8 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.nitilon</groupId>
-  <artifactId>doko</artifactId>
+  <groupId>org.nitilon.doko</groupId>
+  <artifactId>main</artifactId>
   <packaging>pom</packaging>
   <version>1.0.0-SNAPSHOT</version>
   <description>Doppelkopf scoring and statistics</description>
